@@ -1,6 +1,7 @@
 # Haar-Cascade-Car-Detection
 
 以 Haar Cascade 實現車輛偵測
+
 Reference: https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
 
 ## Steps
