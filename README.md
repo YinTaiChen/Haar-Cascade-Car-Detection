@@ -22,7 +22,7 @@ Reference 3: https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.p
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_22.jpg)
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_723.jpg)
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_342.jpg)
-![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_29.jpg)
+![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_39.jpg)
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_187.jpg)
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_42.jpg)
 ![alt text](https://github.com/YinTaiChen/Haar-Cascade-Car-Detection/blob/master/result/result_13.jpg)
